@@ -15,7 +15,7 @@ else if (price >=15 && price <18)
 }
 else if (price >= 18 && price < 20)
 {
-    Console.WriteLine("Think about it!");
+    Console.WriteLine("Think about it!!");
 }
 else
 {

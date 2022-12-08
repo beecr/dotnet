@@ -1,5 +1,5 @@
 ﻿
-Console.WriteLine("Enter the proce:");
+Console.WriteLine("Enter the price:");
 
 int price = Convert.ToInt32(Console.ReadLine());
 
@@ -11,7 +11,7 @@ if (price<15)
 }
 else if (price >=15 && price <18)
 {
-    Console.WriteLine("Bargain!");
+    Console.WriteLine("Do Bargain!");
 }
 else if (price >= 18 && price < 20)
 {
